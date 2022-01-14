@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-seata-account/account-api/account-api.iml" filepath="$PROJECT_DIR$/spring-cloud-seata-account/account-api/account-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-seata-account/account-provider/account-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-seata-account/account-provider/account-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-seata-order/order-api/order-api.iml" filepath="$PROJECT_DIR$/spring-cloud-seata-order/order-api/order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-seata-order/order-provider/order-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-seata-order/order-provider/order-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-seata-repo/repo-api/repo-api.iml" filepath="$PROJECT_DIR$/spring-cloud-seata-repo/repo-api/repo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-seata-repo/repo-provider/repo-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-seata-repo/repo-provider/repo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-seata-common/sample-seata-common.iml" filepath="$PROJECT_DIR$/sample-seata-common/sample-seata-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-seata-example.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-seata-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-seata-rest/spring-cloud-seata-rest.iml" filepath="$PROJECT_DIR$/spring-cloud-seata-rest/spring-cloud-seata-rest.iml" />
+    </modules>
+  </component>
+</project>
